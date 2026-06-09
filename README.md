@@ -2,14 +2,6 @@
 
 <HTML>
 
-<HEAD>
-<TITLE>Working with gnuplot</TITLE>
-<META http-equiv="Content-Type" content="text/html; charset=shift_jis">
-<META NAME="keyword" lang="en" CONTENT="Working with gnuplot">
-<META NAME="author" content="Fumihiro Chiba">
-<META NAME="description" content="Freefem++: Working with gnuplot">
-</HEAD>
-
 <i><H1>Working with gnuplot</H1></i>
 <h2>Problem: PDE</h2>
 <p>We consider the following problem:</p>
