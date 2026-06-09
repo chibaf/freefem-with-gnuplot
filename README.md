@@ -10,8 +10,6 @@
 <META NAME="description" content="Freefem++: Working with gnuplot">
 </HEAD>
 
-<BODY><!-- BGCOLOR="#FFFFFF" background="http://homepage.mac.com/chibaf/back02.JPG">-->
-
 <i><H1>Working with gnuplot</H1></i>
 <h2>Problem: PDE</h2>
 <p>We consider the following problem:</p>
@@ -19,8 +17,10 @@
 <p>(-Delta + 1)u=f in Omega, Delta=d^2/dx^2+d^2/dy^2</p>
 <p>u=g on the boundary of Omega</p>
 </ul>
-<p><img src="./Omega.png" align=Top alt="the domain Omega" width="300" height="300"><br>The Domain Omega</p>
-<p><img src="./f.png" align=Top alt="The homogeneous data f in Omega" width="300" height="300"><br>The inhomogeneous data f in Omega</p>
+<img width="616" height="616" alt="image" src="https://github.com/user-attachments/assets/38974172-ac6c-4cbc-ab34-85a52722d6e0" />
+
+<img width="616" height="616" alt="image" src="https://github.com/user-attachments/assets/b8bb64b6-bb50-42a7-9900-adac336dca2a" />
+
 
 <h2>Solving PDE and generating gnuplot data by Frefem++</h2>
 <p>We choose the following f and g: f=-sin(x*y), g=0.</p>
