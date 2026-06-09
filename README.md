@@ -7,7 +7,8 @@
 <p>We consider the following problem:</p>
 <ul>
 <p>(-Delta + 1)u=f in Omega, Delta=d^2/dx^2+d^2/dy^2</p>
-<p>u=g on the boundary of Omega</p>
+$$ (-\Delta+1)u=f \quad {\rm in } \Omega, \Delta=\partial^2/\partial x^2+\partial^2/\partial y^2 $$
+  <p>u=g on the boundary of Omega</p>
 </ul>
 <img width="616" height="616" alt="image" src="https://github.com/user-attachments/assets/38974172-ac6c-4cbc-ab34-85a52722d6e0" />
 
