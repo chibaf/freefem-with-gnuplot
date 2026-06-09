@@ -59,7 +59,7 @@ ff&gt;&gt;Omega[i][0].x &gt;&gt; " " &gt;&gt; Omega[i][0].y &gt;&gt;" " &gt;&gt;
  } 
 } 
 </pre>
-<p><img src="./uf.png" align=Top alt="solution plotted by freefem++" width="300" height="300"><br>solution plotted by freefem++</p>
+<img width="616" height="616" alt="image" src="https://github.com/user-attachments/assets/cd271c79-9502-41d5-b624-77d4199106d6" />
 
 <h2>gnuplot operation</h2>
 <pre>
@@ -72,12 +72,8 @@ gnuplot&gt; set output "u.png"
 gnuplot&gt; replot
 smooth palette in png: available 157 color positions; using 157 of them
 </pre>
-<p><img src="./u.png" align=Top alt="solution plotted by gnuplot" width="640" height="480"><br>solution plotted by gnuplot</p>
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/d3826b68-8914-4a5e-baf8-ab3738b9fb61" />
 
-<br>
- <A HREF="../"><p><b>Back</b></p></a>
-<br>
-<p>Last update on 17/May/2008</p>
 
 </BODY>
 
